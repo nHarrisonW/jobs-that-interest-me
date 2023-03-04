@@ -36,3 +36,46 @@
     transform: rotate(360deg);
   }
 }
+
+
+
+
+/* BEGIN MY APP */
+
+/* Iceland Font! */
+@import url('https://fonts.googleapis.com/css2?family=Iceland&display=swap');
+
+.repo-link {color: white;}
+.large-link {color: white;}
+#main-bg {
+  background-color: black;
+  background: linear-gradient(#A300DC, #6A008F);
+}
+
+.header {
+  display: inline-flex;
+  align-items: center;
+  font-family: 'Iceland', cursive;
+  color: white;
+}
+.content-box {
+  font-family: 'Iceland', cursive;
+  color: white;
+}
+.first-box {
+  display: flex;
+  justify-content: space-around;
+}
+
+
+.logo {
+  height: 18vw;
+}
+#ngLogo {
+  height: 5vw;
+  margin-left: 10px;
+}
+#intelLogo {
+  height: 15vw;
+  margin-left: 10px;
+}
