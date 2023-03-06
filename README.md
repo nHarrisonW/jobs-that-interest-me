@@ -68,3 +68,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+Harrison Project meet all the requirements and was done with a well put together design. I noticed that he doesn't have any buttons to navigate throughout his page and but i like his way, It's very unique. . I also like the choice of jobs as well. It shows Harrison has a real interest in the military and their benefits. I hope he can find a job within the industry- John Magpantay
